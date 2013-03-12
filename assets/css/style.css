@@ -2034,4 +2034,29 @@ ul#contact-form li #send-message
  margin-left: 0;
  margin-right: 0;
 }
+.white-border
+{
+	border-color: white;
 }
+.white-border
+{
+border: 1px solid;
+border-width: 15px;
+overflow: hidden;
+line-height: 0;
+}
+.border-200 {
+    border-radius: 200px 200px 200px 200px;
+}
+.shadow {
+    background-color: #4C403D;
+}
+.shadow {
+    height: 100%;
+    left: 0;
+    opacity: 0.75;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
